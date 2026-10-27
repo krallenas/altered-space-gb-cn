@@ -1,3 +1,9 @@
+<div align="center">
+
+**中文 | [English](README_EN.md)**
+
+</div>
+
 # Altered Space GB 汉化版
 
 Game Boy 游戏《Altered Space: A 3-D Alien Adventure》（1991，Sony Imagesoft 发行）的非官方中文汉化项目。
