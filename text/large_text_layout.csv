@@ -1,0 +1,39 @@
+page,entry,center_left,center_width,y_pixel,x_adjust,text,notes
+initials,prompt,0,160,1,0,输入姓名:,12px packed initials prompt; shifted down 1px; preserve native letters and cursor tiles
+stage,heading,64,96,36,0,逃脱!,12px packed line in right panel
+stage,stage_8,64,96,58,0,第8关 舰桥,12px packed line
+stage,stage_7,64,96,82,0,第7关 船员舱,12px packed line
+stage,stage_6,64,96,106,0,第6关 厨房,12px packed line
+stage,stage_5,64,96,130,0,第5关 娱乐区,12px packed line
+stage,stage_4,64,96,154,0,第4关 传送室,12px packed line
+stage,stage_3,64,96,178,0,第3关 冷冻舱,12px packed line
+stage,stage_2,64,96,202,0,第2关 工程区,12px packed line
+stage,stage_1,64,96,226,0,第1关 货舱,12px packed line
+desc_humphrey,name,0,160,90,0,汉弗莱,12px packed line
+desc_humphrey,description,0,160,106,0,勇敢的宇航员,12px packed line
+desc_zaks,name,0,160,90,0,扎克族,12px packed line
+desc_zaks,description,0,160,106,0,外星劫持者,12px packed line
+desc_droid1,name,0,160,90,0,1型机器人,12px packed line
+desc_droid1,description,0,160,106,0,维修机器人,12px packed line
+desc_droid9,name,0,160,90,0,9型机器人,12px packed line
+desc_droid9,description,0,160,106,0,警卫机器人,12px packed line
+desc_garffs,name,0,160,90,0,加夫族,12px packed line
+desc_garffs,description,0,160,106,0,顽皮的外星人,12px packed line
+access,denied,0,160,36,0,访问被拒,12px packed line; tile aligned
+access,explanation_1,0,160,68,0,需要电脑终端进行安全授权,12px packed access guidance
+access,explanation_2,0,160,92,0,才能访问电脑资料库,12px packed access guidance
+item_status,message,0,160,58,0,未携带任何物品,12px packed line
+item_status,particle,64,60,2,0,粒子溶解器,12px packed inventory name; left aligned at x64
+item_status,disruptor,64,72,2,0,溶解特定障碍,12px packed inventory hint; left aligned at x64
+item_status,computer,64,48,2,0,电脑终端,12px packed inventory name; left aligned at x64
+item_status,interface,64,84,2,0,资料库安全授权,12px packed inventory hint; left aligned at x64
+item_status,stun_gun,64,36,2,0,电击枪,12px packed inventory name; left aligned at x64
+item_status,stun_gun_hint,64,60,2,0,眩晕外星人,12px packed inventory hint; left aligned at x64
+item_status,key,64,24,2,0,钥匙,12px packed inventory name; left aligned at x64
+item_status,circuit,64,60,2,0,电路破坏器,12px packed inventory name; left aligned at x64
+item_status,jammer,64,60,2,0,短路机器人,12px packed inventory hint; left aligned at x64
+item_status,air,0,32,8,0,氧气,12px packed status label in expanded four-row panel
+ending,story_1,0,160,162,0,逃生舱已经顺利弹射脱离，,144px justified ending line
+ending,story_2,0,160,178,0,多亏了你，我们的英雄才,144px justified ending line
+ending,story_3,0,160,194,0,从火箭牢笼中脱身，此刻,144px justified ending line
+ending,story_4,0,160,210,0,正平安地踏上回家的旅途。,144px justified ending line

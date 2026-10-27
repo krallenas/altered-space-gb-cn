@@ -1,0 +1,37 @@
+screen,entry,x,y,width,align,text,notes
+initials,prompt,7,0,20,center,输入姓名:,center shortened full-width prompt
+ending,story_1,2,0x13,20,center,逃生舱已发射 英雄已逃出飞船牢笼,merge six English lines
+ending,story_2,5,0x18,20,center,多谢你 他平安回家,merge three English lines
+ending,congratulations,8,0x1C,20,center,恭喜你!,publisher lines remain blank
+access,denied,8,0x04,20,center,访问被拒,centered heading
+access,explanation,2,0x09,20,center,需要安全许可 才能访问电脑资料库,merge three English lines
+access,hidden_label,,,19,center,关卡计划,keep native glyphs and move this screen window WY from 0x82 to 0x81
+no_items,message,6,0x07,20,center,未携带任何物品,merge and center two English lines
+item,particle,,,8,center,粒子,center inside PARTICLE field
+item,disruptor,,,9,center,破坏器,center inside DISRUPTOR field
+item,computer,,,8,center,电脑,center inside COMPUTER field
+item,interface,,,9,center,接口,center inside INTERFACE field
+item,stun_gun,,,8,center,电击枪,center inside STUN GUN field
+item,key,,,3,center,钥匙,center inside KEY field
+item,circuit,,,7,center,电路,center inside CIRCUIT field
+item,jammer,,,6,center,干扰器,center inside JAMMER field
+item,air,,,3,center,氧气,center inside AIR field
+description,humphrey_name,8,0x0B,20,center,汉弗莱,center name on first line
+description,humphrey_description,7,0x0D,20,center,勇敢的宇航员,center description on second line
+description,zaks_name,8,0x0B,20,center,扎克族,center name on first line
+description,zaks_description,7,0x0D,20,center,外星劫持者,correct CAPTORS mistranslation
+description,droid_1_name,7,0x0B,20,center,1型机器人,center name on first line
+description,droid_1_description,7,0x0D,20,center,维修机器人,center description on second line
+description,droid_9_name,7,0x0B,20,center,9型机器人,desc_droid9-page-only ASCII 9 glyph shifted left 1px
+description,droid_9_description,7,0x0D,20,center,警卫机器人,center description on second line
+description,garffs_name,8,0x0B,20,center,加夫族,center name on first line
+description,garffs_description,7,0x0D,20,center,顽皮的外星人,center description on second line
+stage,heading,12,0x05,12,center,逃脱!,center in right-side panel x8..x19
+stage,stage_8,11,0x07,12,center,第8关 舰桥,merge number and name
+stage,stage_7,10,0x0A,12,center,第7关 船员舱,merge number and name
+stage,stage_6,11,0x0D,12,center,第6关 厨房,merge number and name
+stage,stage_5,10,0x10,12,center,第5关 娱乐区,merge number and name
+stage,stage_4,10,0x13,12,center,第4关 传送室,merge number and name
+stage,stage_3,10,0x16,12,center,第3关 冷冻舱,merge number and name
+stage,stage_2,10,0x19,12,center,第2关 工程区,merge number and name
+stage,stage_1,11,0x1C,12,center,第1关 货舱,merge number and name

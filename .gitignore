@@ -1,0 +1,16 @@
+# 游戏版权物料，禁止入库
+*.gb
+*.gbc
+*.zip
+*.7z
+说明书.pdf
+item.png
+key.png
+
+# Python
+__pycache__/
+*.pyc
+
+# 字模重建临时文件
+*.bin
+*.bmp
